@@ -1,11 +1,10 @@
 ---
-title: "About Me"
-date: 2025-05-27
+title: "Shamsia Afrin Jamema"
 ---
 
 ![Shamsia Afrin Jamema](/images/shamsia.jpg)
 
-I'm **Shamsia Afrin Jamema**, currently pursuing my Master's in Computer Science and Engineering (Data Science) at Daffodil International University. I’m passionate about AI, deep learning, and building impactful software.
+I'm **Shamsia Afrin Jamema**, currently pursuing my Master's in Computer Science and Engineering (Data Science) at Daffodil International University. I'm passionate about AI, deep learning, and building impactful software.
 
 ### Skills
 
@@ -35,4 +34,4 @@ I'm **Shamsia Afrin Jamema**, currently pursuing my Master's in Computer Science
 #### Secondary School Certificate (SSC, 2016)  
 **Institute:** Uttara High School & College  
 **GPA:** 5.00/5.00
-**Passing Year:** 2016   
+**Passing Year:** 2016 

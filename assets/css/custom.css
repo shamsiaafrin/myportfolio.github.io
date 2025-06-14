@@ -1,6 +1,143 @@
-.profile-photo {
-  border-radius: 50%;
-  width: 150px;
-  margin: 0 auto;
-  display: block;
+/* Custom CSS for Shamsia's Portfolio */
+
+/* Custom Variables */
+:root {
+    --primary-color: #2d3436;
+    --secondary-color: #0984e3;
+    --accent-color: #00b894;
+    --text-color: #2d3436;
+    --background-color: #ffffff;
+    --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+/* Global Styles */
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* Custom Card Styles */
+.article-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--background-color);
+    box-shadow: var(--card-shadow);
+}
+
+.article-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Custom Gallery Styles */
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 2rem 0;
+}
+
+.gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.gallery-item:hover img {
+    transform: scale(1.05);
+}
+
+/* Custom Button Styles */
+.custom-button {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background: var(--secondary-color);
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background 0.3s ease;
+}
+
+.custom-button:hover {
+    background: var(--accent-color);
+}
+
+/* Custom Section Styles */
+.section-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    position: relative;
+    padding-bottom: 0.5rem;
+}
+
+.section-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: var(--accent-color);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .gallery-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 1rem;
+    }
+
+    .section-title {
+        font-size: 1.75rem;
+    }
+}
+
+/* Custom Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fade-in {
+    animation: fadeIn 0.6s ease-out forwards;
+}
+
+/* Home Info Section Styles */
+.home-info {
+    margin-top: 2rem;
+}
+
+.home-info img {
+    display: block;
+    max-width: 300px;
+    margin: 0 auto 2rem auto;
+    border-radius: 8px;
+    box-shadow: var(--card-shadow);
+}
+
+.home-info h3 {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.home-info p {
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+} 

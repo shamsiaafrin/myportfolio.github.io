@@ -1,9 +1,7 @@
 ---
-title: "Professional Experience"
-date: 2025-05-27
-type: "page"
-menu: "main"
-weight: 2
+date: '2025-06-14T18:54:58+06:00'
+draft: true
+title: 'Professional Experience'
 ---
 
 ### ITS Holidays Ltd (2023–Present)  
@@ -29,4 +27,4 @@ weight: 2
 ### Daffodil International University  
 **Role:** Teaching Assistant  
 - Supported undergraduate students in both class and lab settings.
-- Participated in “Future Teaching and Learning” training at DIU.
+- Participated in "Future Teaching and Learning" training at DIU. 
