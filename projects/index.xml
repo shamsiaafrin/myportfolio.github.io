@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on PaperMod</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en</language>
+    <copyright>2024 Shamsia Afrin Jamema | All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 14 Jun 2025 18:57:13 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIU Chatting App</title>
+      <link>http://localhost:1313/projects/diu-chatting-app/</link>
+      <pubDate>Sat, 14 Jun 2025 18:57:13 +0600</pubDate>
+      <guid>http://localhost:1313/projects/diu-chatting-app/</guid>
+      <description>&lt;p&gt;A real-time chat application for Daffodil International University students and faculty.&lt;/p&gt;
+&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Android Studio&lt;/li&gt;
+&lt;li&gt;Firebase&lt;/li&gt;
+&lt;li&gt;Real-time Database&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time messaging&lt;/li&gt;
+&lt;li&gt;Group chat functionality&lt;/li&gt;
+&lt;li&gt;File sharing&lt;/li&gt;
+&lt;li&gt;User authentication&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Online Art Gallery</title>
+      <link>http://localhost:1313/projects/online-art-gallery/</link>
+      <pubDate>Sat, 14 Jun 2025 18:57:13 +0600</pubDate>
+      <guid>http://localhost:1313/projects/online-art-gallery/</guid>
+      <description>&lt;p&gt;An art gallery system that enables users to browse and upload artworks digitally.&lt;/p&gt;
+&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Desktop Application&lt;/li&gt;
+&lt;li&gt;Database Management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital artwork browsing&lt;/li&gt;
+&lt;li&gt;User authentication&lt;/li&gt;
+&lt;li&gt;Artwork upload functionality&lt;/li&gt;
+&lt;li&gt;Search and filter capabilities&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Heart Disease AI</title>
+      <link>http://localhost:1313/projects/heart-disease-ai/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/heart-disease-ai/</guid>
+      <description>&lt;p&gt;An AI system for predicting heart disease risk using machine learning algorithms.&lt;/p&gt;
+&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Data Analysis&lt;/li&gt;
+&lt;li&gt;Scikit-learn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Risk prediction&lt;/li&gt;
+&lt;li&gt;Data visualization&lt;/li&gt;
+&lt;li&gt;Multiple algorithm support&lt;/li&gt;
+&lt;li&gt;User-friendly interface&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Kids Learning App</title>
+      <link>http://localhost:1313/projects/kids-learning-app/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/kids-learning-app/</guid>
+      <description>&lt;p&gt;An educational application designed to make learning fun and interactive for children.&lt;/p&gt;
+&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Android Studio&lt;/li&gt;
+&lt;li&gt;SQLite&lt;/li&gt;
+&lt;li&gt;Material Design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Interactive learning games&lt;/li&gt;
+&lt;li&gt;Progress tracking&lt;/li&gt;
+&lt;li&gt;Parent monitoring&lt;/li&gt;
+&lt;li&gt;Offline access&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Personal Assistant Humanoid Robot</title>
+      <link>http://localhost:1313/projects/personal-assistant-robot/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/personal-assistant-robot/</guid>
+      <description>&lt;p&gt;Built a humanoid robot assistant for basic tasks and interaction using microcontrollers and embedded systems.&lt;/p&gt;
+&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Embedded Systems&lt;/li&gt;
+&lt;li&gt;Robotics&lt;/li&gt;
+&lt;li&gt;Microcontrollers&lt;/li&gt;
+&lt;li&gt;C Programming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Voice command recognition&lt;/li&gt;
+&lt;li&gt;Basic movement control&lt;/li&gt;
+&lt;li&gt;Task automation&lt;/li&gt;
+&lt;li&gt;Interactive responses&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Server System</title>
+      <link>http://localhost:1313/projects/server-system/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/server-system/</guid>
+      <description>&lt;p&gt;A robust server management system for handling multiple client connections and data processing.&lt;/p&gt;
+&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Network Programming&lt;/li&gt;
+&lt;li&gt;Database Systems&lt;/li&gt;
+&lt;li&gt;Cloud Computing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi-client support&lt;/li&gt;
+&lt;li&gt;Real-time data processing&lt;/li&gt;
+&lt;li&gt;Secure data transmission&lt;/li&gt;
+&lt;li&gt;System monitoring&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Sign Language Detection</title>
+      <link>http://localhost:1313/projects/sign-language-detection/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sign-language-detection/</guid>
+      <description>&lt;p&gt;An AI-powered system for real-time sign language recognition and translation.&lt;/p&gt;
+&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;li&gt;Computer Vision&lt;/li&gt;
+&lt;li&gt;TensorFlow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time sign language recognition&lt;/li&gt;
+&lt;li&gt;Multiple sign language support&lt;/li&gt;
+&lt;li&gt;Translation to text&lt;/li&gt;
+&lt;li&gt;User-friendly interface&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
