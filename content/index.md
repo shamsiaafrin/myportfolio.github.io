@@ -40,4 +40,4 @@ I'm **Shamsia Afrin Jamema**, currently pursuing my Master's in Computer Science
 
 [Experience](/experience/)
 
-[Project](/project/)
+[Project](/project)

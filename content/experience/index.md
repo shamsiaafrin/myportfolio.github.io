@@ -1,8 +1,11 @@
 ---
 title: "Professional Experience"
 date: 2025-05-27
+type: "page"
+menu: "main"
+weight: 2
 ---
-<img src="/images/shamsia.jpg" alt="Shamsia Afrin Jamema" width="200" style="border-radius: 50%; margin-bottom: 20px;">
+
 ### ITS Holidays Ltd (2023–Present)  
 **Role:** Product & Innovation Manager  
 - Led the planning and execution of new product initiatives.
