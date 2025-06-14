@@ -36,8 +36,3 @@ I'm **Shamsia Afrin Jamema**, currently pursuing my Master's in Computer Science
 **Institute:** Uttara High School & College  
 **GPA:** 5.00/5.00
 **Passing Year:** 2016   
-
-
-[Experience](/experience/)
-
-[Project](/project)
